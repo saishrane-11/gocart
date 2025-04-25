@@ -68,6 +68,10 @@ Swiper Slider - https://swiperjs.com/
 Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
 Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
 
+
+https://youtube.com/shorts/4E7zWOb59wM?si=AUYDebZHsTRzzBi_
+
+
 Thanks for downloading from TemplatesJungle.com !
 
 
